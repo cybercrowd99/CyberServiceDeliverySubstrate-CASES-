@@ -1,6 +1,6 @@
 /**
  * CASES — Boundary Transitions
- *
+ * 
  * ONE JOB:
  * Define allowed transitions between CASES boundary states
  * without inferring human intent or creating a relationship.
