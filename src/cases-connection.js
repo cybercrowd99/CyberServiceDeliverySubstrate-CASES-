@@ -1,6 +1,6 @@
 /**
  * CASES — Explicit Connection
- *
+ * 
  * ONE JOB:
  * Represent a CASES connection only after the boundary has reached
  * EXPLICIT_RELATIONSHIP.
