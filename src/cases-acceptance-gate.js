@@ -1,6 +1,6 @@
 /**
  * CASES — Acceptance Gate
- *
+ * 
  * ONE JOB:
  * Permit a routed CASES connection message to enter the
  * acceptance surface only when the existing CASES boundary
