@@ -1,6 +1,6 @@
 /**
  * CASES — Boundary Machine
- *
+ * 
  * ONE JOB:
  * Apply an already validated CASES boundary transition without
  * inferring human intent or creating a relationship by itself.
