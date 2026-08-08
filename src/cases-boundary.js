@@ -1,6 +1,6 @@
 /**
  * CASES — Connection Boundary
- *
+ * 
  * ONE JOB:
  * Define the bounded human and system boundary through which a
  * possible relationship can remain unresolved until explicit
