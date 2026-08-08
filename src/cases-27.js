@@ -1,6 +1,6 @@
 /**
  * CASES — CASES-27
- *
+ * 
  * ONE JOB:
  * Define the 27 latent CASES connection states created by the
  * three CASES boundary positions and their three neutrality values.
