@@ -1,6 +1,6 @@
 /**
  * CASES — Connection Message
- *
+ * 
  * ONE JOB:
  * Define the bounded message structure used to describe a CASES
  * connection between an independent system and CyberCrowd.
