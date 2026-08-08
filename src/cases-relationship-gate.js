@@ -1,6 +1,6 @@
 /**
  * CASES — Relationship Gate
- *
+ * 
  * ONE JOB:
  * Permit a CASES connection to become an explicit relationship
  * only when the existing acceptance result and boundary state
