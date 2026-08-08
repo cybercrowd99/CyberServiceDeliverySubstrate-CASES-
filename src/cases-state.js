@@ -1,6 +1,6 @@
 /**
  * CASES — Connection State
- *
+ * 
  * ONE JOB:
  * Define the CASES neutrality positions and the three-position
  * CASES connection state.
