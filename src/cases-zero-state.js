@@ -1,6 +1,6 @@
 /**
  * CASES — Zero-State
- *
+ * 
  * ONE JOB:
  * Provide the explicit CASES Zero-State for a connection that
  * has no latent negative or positive lean.
