@@ -1,6 +1,6 @@
 /**
  * CASES — Relationship Resolution
- *
+ * 
  * ONE JOB:
  * Resolve an existing CASES relationship result into a final
  * bounded connection representation without creating new authority,
