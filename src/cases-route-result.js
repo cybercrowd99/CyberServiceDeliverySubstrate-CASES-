@@ -1,6 +1,6 @@
 /**
  * CASES — Route Result
- *
+ * 
  * ONE JOB:
  * Provide the immutable result structure returned by the
  * CASES connection route.
