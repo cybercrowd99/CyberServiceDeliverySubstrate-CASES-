@@ -1,6 +1,6 @@
 /**
  * CASES — State Classification
- *
+ * 
  * ONE JOB:
  * Identify the CASES-27 case number represented by an existing
  * three-position CASES connection state.
