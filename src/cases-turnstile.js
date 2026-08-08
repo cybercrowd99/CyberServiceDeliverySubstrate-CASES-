@@ -1,6 +1,6 @@
 /**
  * CASES — Turnstile
- *
+ * 
  * ONE JOB:
  * Define the explicit human interaction required to move a CASES
  * boundary from an unresolved condition toward an explicit relationship.
