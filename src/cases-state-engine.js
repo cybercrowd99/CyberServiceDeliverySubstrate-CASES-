@@ -1,6 +1,6 @@
 /**
  * CASES — State Engine
- *
+ * 
  * ONE JOB:
  * Maintain and update a CASES-27 connection state while preserving
  * the distinction between NEGATIVE_ZERO, ZERO, and POSITIVE_ZERO.
