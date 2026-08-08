@@ -1,6 +1,6 @@
 /**
  * CASES — Acceptance Result
- *
+ * 
  * ONE JOB:
  * Define the immutable result structure produced by the
  * CASES acceptance gate.
