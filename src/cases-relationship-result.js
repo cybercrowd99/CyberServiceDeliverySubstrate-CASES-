@@ -1,6 +1,6 @@
 /**
  * CASES — Relationship Result
- *
+ * 
  * ONE JOB:
  * Define the immutable result structure produced by the
  * CASES relationship gate.
