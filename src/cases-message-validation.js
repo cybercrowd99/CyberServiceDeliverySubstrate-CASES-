@@ -1,6 +1,6 @@
 /**
  * CASES — Message Validation
- *
+ * 
  * ONE JOB:
  * Validate the structure of a CASES connection message before it
  * crosses the CASES connection boundary.
