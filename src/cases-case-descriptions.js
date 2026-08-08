@@ -1,6 +1,6 @@
 /**
  * CASES — Case Descriptions
- *
+ * 
  * ONE JOB:
  * Provide the descriptive names for the 27 CASES connection states.
  *
