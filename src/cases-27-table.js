@@ -1,6 +1,6 @@
 /**
  * CASES — CASES-27 Table View
- *
+ * 
  * ONE JOB:
  * Provide a readable table representation of the 27 CASES states.
  *
