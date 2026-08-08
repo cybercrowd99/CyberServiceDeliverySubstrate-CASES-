@@ -1,6 +1,6 @@
 /**
  * CASES — Route Consumer
- *
+ * 
  * ONE JOB:
  * Consume a CASES route result without executing a service,
  * changing CASES state, or interpreting human intent.
